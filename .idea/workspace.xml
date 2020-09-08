@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0e1deef-e61d-472d-9d3f-42efe7f13586" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d4p12C2Ta7z7MazevnvDWm3a7I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/ScriptTool.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Billy\Desktop\Software Developer\SOFTCHAIN\Python\ScriptTool\Icons" />
+      <recent name="C:\Users\Billy\Desktop\Software Developer\SOFTCHAIN\Python\ScriptTool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Billy\Desktop\Software Developer\SOFTCHAIN\Python\ScriptTool" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ScriptTool (1)">
+    <configuration name="ScriptTool (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScriptTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScriptTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScriptTool_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScriptTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScriptTool_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScriptTool_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScriptTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScriptTool_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backup_ScriptTool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScriptTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Billy\Desktop\Software Developer\SOFTCHAIN\Python\ScriptTool\backup_ScriptTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScriptTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ScriptTool (1)" />
+        <item itemvalue="Python.ScriptTool_3" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.ScriptTool_2" />
+        <item itemvalue="Python.backup_ScriptTool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0e1deef-e61d-472d-9d3f-42efe7f13586" name="Default Changelist" comment="" />
+      <created>1591694001013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591694001013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="0" key="#ScriptTool_3" timestamp="1593680223120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="#ScriptTool_3/0.0.1366.728@0.0.1366.728" timestamp="1593680223120" />
+    <state x="431" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592389491850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592389491850" />
+    <state x="114" y="56" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1593680526388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="114" y="56" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593680526388" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599575262122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575262122" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593680277535" />
+    <state width="1345" height="135" key="GridCell.Tab.0.bottom" timestamp="1599575598990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575598990" />
+    <state width="1339" height="382" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1592841171852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594048047852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.center" timestamp="1599575598990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="135" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575598990" />
+    <state width="1339" height="382" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1592841171852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594048047852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.left" timestamp="1599575598989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="135" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575598989" />
+    <state width="1339" height="382" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1592841171852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594048047852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.right" timestamp="1599575598990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="135" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575598990" />
+    <state width="1339" height="382" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1592841171852" />
+    <state width="1345" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594048047852" />
+    <state width="1345" height="116" key="GridCell.Tab.1.bottom" timestamp="1592004022903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="116" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592004022903" />
+    <state width="1345" height="116" key="GridCell.Tab.1.center" timestamp="1592004022903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="116" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592004022903" />
+    <state width="1345" height="116" key="GridCell.Tab.1.left" timestamp="1592004022903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="116" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592004022903" />
+    <state width="1345" height="116" key="GridCell.Tab.1.right" timestamp="1592004022903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="116" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592004022903" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1599575313672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575313672" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599575140186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1003" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592815076366" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1599575140186" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594885594050" />
+  </component>
+</project>
